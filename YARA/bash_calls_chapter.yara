@@ -1,4 +1,4 @@
-rule december_intrustion_malware : bash_calls_cahpter 
+rule december_intrustion_malware : bash_calls_chapter 
 {
     meta: 
         description = "Malware seen in intrusion on mikes-macbook-pro"
@@ -14,4 +14,5 @@ rule december_intrustion_malware : bash_calls_cahpter
 
     condition: 
         any of them
+
 }
